@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Welcome+to+My+GitHub+Profile)
+
 # Hello World! 🌍
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+|+Web+Enthusiast&center=true&width=500&height=50)
