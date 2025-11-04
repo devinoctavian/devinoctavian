@@ -1,6 +1,6 @@
 # Hello World! 🌍
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+|&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+|+Web+Enthusiast&center=true&width=500&height=50)
 
 ## 🛠️ Technologies & Tools
 - **Backend:** PHP, Node.js, Python
