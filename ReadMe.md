@@ -58,14 +58,10 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=dark"/>
+</p>
 
 ---
 
@@ -97,25 +93,6 @@ class CurrentGoals
     }
 }
 ```
-
----
-
-### 🏆 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/yourusername/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/yourusername/another-project)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
-</div>
 
 ---
 
