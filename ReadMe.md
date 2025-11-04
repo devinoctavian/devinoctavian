@@ -1,6 +1,6 @@
 # Hello World! 🌍
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=devinoctavian&theme=react-dark)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;PHP+Enthusiast;Problem+Solver&center=true&width=500&height=50)
 
 ## 🛠️ Technologies & Tools
 - **Backend:** PHP, Node.js, Python
@@ -13,9 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=dark"/>
 </p>
-
-## ⌨️ Dynamic "Typing" Text
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;PHP+Enthusiast;Problem+Solver&center=true&width=500&height=50)
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
