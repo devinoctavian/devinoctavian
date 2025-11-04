@@ -1,5 +1,3 @@
-![Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Welcome+to+My+GitHub+Profile)
-
 # Hello World! 🌍
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+|+Web+Enthusiast&center=true&width=500&height=50)
@@ -15,6 +13,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=dark"/>
 </p>
+<!--START_SECTION:waka-->
+```text
+PHP       10 hrs 30 mins  ████████████░░░░░░░░░   60%
+JavaScript 4 hrs 15 mins   █████░░░░░░░░░░░░░░░░   25%
+SQL        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░   10%
+Other      30 mins         ░░░░░░░░░░░░░░░░░░░░░   5%
+<!--END_SECTION:waka-->
+
+---
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
