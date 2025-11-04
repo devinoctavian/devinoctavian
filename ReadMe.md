@@ -1,23 +1,146 @@
-<h1 align="center">Hi 👋, I'm Devin Octavian</h1>
-<h3 align="center">A passionate Aspiring Full Stack Developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+an+Aspiring+Backend+Developer;Passionate+about+PHP+%26+Laravel;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devinoctavian&label=Profile%20views&color=0e75b6&style=flat" alt="devinoctavian" /> </p>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=F75C7E)](https://github.com/devinoctavian)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devinoctavian)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devinoctavian" alt="devinoctavian" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devinoctavian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devinoctavian" height="30" width="40" /></a>
-<a href="https://instagram.com/nivednaivatco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nivednaivatco" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🚀 A Passionate Backend Developer On Building Scalable & Maintainable Website Applications 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinoctavian&show_icons=true&locale=en&layout=compact" alt="devinoctavian" /></p>
+💼 Focus on RESTful API Development and Microservices Architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&locale=en" alt="devinoctavian" /></p>
+🌱 Currently Learnnig: **Clean Architecture, Design Patterns, dan Testing**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinoctavian&" alt="devinoctavian" /></p>
+💡 Interested in: **Performance Optimization, Database Design, dan Cloud Services**
+
+📫 Reach me: **devin191006@gmail.com**
+
+📍 Location: **Bandung, Indonesia**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+#### Frontend (Basic)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```php
+<?php
+
+namespace MyDevelopmentJourney;
+
+class CurrentGoals
+{
+    private array $learning = [
+        'Backend' => ['Laravel Advanced Features', 'Clean Architecture', 'SOLID Principles'],
+        'Database' => ['Query Optimization', 'Database Indexing', 'Replication'],
+        'DevOps' => ['Docker', 'CI/CD', 'AWS/GCP Basics'],
+        'Testing' => ['PHPUnit', 'Feature Testing', 'TDD Methodology']
+    ];
+    
+    private array $projects = [
+        'Building RESTful API with Laravel',
+        'E-commerce Backend System',
+        'Authentication & Authorization System'
+    ];
+    
+    public function getDailyRoutine(): string
+    {
+        return 'Code → Learn → Build → Repeat 🔄';
+    }
+}
+```
+
+---
+
+### 🏆 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/yourusername/project-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/yourusername/another-project)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devinoctavian)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nivednaivatco)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devin191006@gmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+
+**⭐️ From [devinoctavian](https://github.com/devinoctavian)**
+
+</div>
