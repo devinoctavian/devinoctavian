@@ -56,13 +56,14 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=dark"/>
-</p>
-
+📊 GitHub Statistics
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devinoctavian&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
+</div>
 ---
 
 ### 🎯 Current Focus
