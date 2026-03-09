@@ -41,6 +41,7 @@
 
 ---
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 
 **⭐️ From [devinoctavian](https://github.com/devinoctavian)**
