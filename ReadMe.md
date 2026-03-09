@@ -41,15 +41,6 @@
 
 ---
 
-<div align="center">
-  
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devinoctavian)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nivednaivatco)
-
----
-
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 
 **⭐️ From [devinoctavian](https://github.com/devinoctavian)**
