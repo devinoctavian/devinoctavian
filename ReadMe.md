@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+an+Aspiring+Backend+Developer;Passionate+about+PHP+%26+Laravel;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=F75C7E)](https://github.com/devinoctavian)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devinoctavian)
-  
-</div>
 
 ---
 
@@ -43,8 +37,6 @@
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 #### Frontend (Basic)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,43 +55,6 @@
 </div>
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
-</div>
-
----
-
-### 🎯 Current Focus
-
-```php
-<?php
-
-namespace MyDevelopmentJourney;
-
-class CurrentGoals
-{
-    private array $learning = [
-        'Backend' => ['Laravel Advanced Features', 'Clean Architecture', 'SOLID Principles'],
-        'Database' => ['Query Optimization', 'Database Indexing', 'Replication'],
-        'DevOps' => ['Docker', 'CI/CD', 'AWS/GCP Basics'],
-        'Testing' => ['PHPUnit', 'Feature Testing', 'TDD Methodology']
-    ];
-    
-    private array $projects = [
-        'Building RESTful API with Laravel',
-        'E-commerce Backend System',
-        'Authentication & Authorization System'
-    ];
-    
-    public function getDailyRoutine(): string
-    {
-        return 'Code → Learn → Build → Repeat 🔄';
-    }
-}
-```
----
-
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devinoctavian&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
