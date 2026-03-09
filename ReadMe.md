@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Passionate On Building **Scalable Website Applications** empowered by **AI**
-- 💼 Focus on RESTful API Development and Microservices Architecture
+- 💼 Focus on **Microservices Architecture** and integrating **Machine Learning** models into production.
 - 🌱 Currently Learning: **Integrated Applications, Data Science, and Machine Learning**
 - 💡 Interested in: **Microservices and AI**
 
