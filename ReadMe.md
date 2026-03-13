@@ -31,19 +31,21 @@
 
 ---
 
-📊 GitHub Statistics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
-</div>
+## 📊 GitHub Statistics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devinoctavian&theme=radical&hide_border=true" alt="Contribution Streak"/>
+</p>
 
 ---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
-
+  
 **⭐️ From [devinoctavian](https://github.com/devinoctavian)**
 
 </div>
