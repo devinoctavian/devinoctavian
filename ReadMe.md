@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 
 - 🚀 Passionate On Building **Scalable Website Applications** empowered by **AI**
-- 💼 Focus on **Microservices Architecture** and integrating **Machine Learning** models into production.
 - 🌱 Currently Learning: **Integrated Applications, Data Science, and Machine Learning**
 - 💡 Interested in: **Microservices and AI**
 
@@ -44,7 +43,7 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MysticHex&color=F75C7E&style=flat-square">
   
 **⭐️ From [devinoctavian](https://github.com/devinoctavian)**
 
