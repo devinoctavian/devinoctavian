@@ -5,7 +5,6 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate On Building **Scalable Website Applications** empowered by **AI**
 - 🌱 Currently Learning: **Integrated Applications, Data Science, and Machine Learning**
 - 💡 Interested in: **Microservices and AI**
 
