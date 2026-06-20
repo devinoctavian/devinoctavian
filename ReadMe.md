@@ -9,5 +9,6 @@
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devinoctavian&show_icons=true" alt="README Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=pie-chart"
+alt="Contribution Graph"/>
 </p>
