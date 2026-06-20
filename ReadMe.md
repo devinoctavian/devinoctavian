@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=pie-chart&theme=tokyonight"
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinoctavian&layout=pie&theme=tokyonight&hide_border=true"
 alt="Top Languages Chart"/>
 </p>
